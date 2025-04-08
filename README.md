@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Overview
+# Data Structures and Algorithms Assignments
 
 This repository contains solutions to a series of assignments focused on core data structures and algorithmic techniques.
 
